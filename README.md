@@ -11,11 +11,6 @@ This project analyzes how different advertising channels (**TV, Radio, Newspaper
 - Designed a **Power BI dashboard** to visualize insights.  
 - Used **OpenAI API** securely (via environment variables) to assist in code explanations & documentation.  
 
----
-
-## 📑 Dataset Source
-- [Advertising Dataset (ISLR)](https://www.statlearning.com/)  
-- [Kaggle Version](https://www.kaggle.com/datasets/ashydv/advertising-dataset)  
 
 ---
 
