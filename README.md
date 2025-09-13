@@ -56,5 +56,5 @@ This project demonstrates how businesses can **allocate advertising budgets more
 
 ---
 
-## 📝 Project Summary (for GitHub/LinkedIn)
+## 📝 Project Summary 
 *Built a regression model to analyze the impact of TV, Radio, and Newspaper ads on sales (**R² = 0.90, RMSE = 1.78**) and designed a **Power BI dashboard** to visualize insights. Used OpenAI API for code documentation & insights generation.*
