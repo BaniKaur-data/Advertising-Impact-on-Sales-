@@ -11,8 +11,7 @@ This project analyzes how different advertising channels (**TV, Radio, Newspaper
 
 ## 📂 Repository Contents  
 - [Advertising Impact on Sales Notebook (Colab)](https://colab.research.google.com/drive/1V9Sci5-h1mJFI3wV6P300UvT9nGUU96S?usp=sharing) → Jupyter/Colab notebook with data analysis and regression model.  
-- `Advertising Impact On Sales.pbix` → Power BI dashboard file (if uploaded).  
-- ![Dashboard Screenshot](Advertising%20Impact%20On%20Sales.png) → Power BI dashboard preview.  
+- `Advertising Impact On Sales.pbix` → Power BI dashboard file ).  
 
 ## 📊 Dashboard Preview  
 ![Dashboard Screenshot](Advertising%20Impact%20On%20Sales.png)  
