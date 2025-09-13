@@ -10,12 +10,12 @@ This project analyzes how different advertising channels (**TV, Radio, Newspaper
 - Used **OpenAI API** securely (via environment variables) to assist in code explanations & documentation.  
 
 ## 📂 Repository Contents  
-- `Advertising_Impact_on_Sales.ipynb` → Colab notebook with data analysis and regression model.  
-- `Advertising Impact On Sales.pbix` → Power BI dashboard file.  
-- `Advertising Impact On Sales.png` → Dashboard screenshot.  
+- [Advertising Impact on Sales Notebook (Colab)](https://colab.research.google.com/drive/1V9Sci5-h1mJFI3wV6P300UvT9nGUU96S?usp=sharing) → Jupyter/Colab notebook with data analysis and regression model.  
+- `Advertising Impact On Sales.pbix` → Power BI dashboard file (if uploaded).  
+- ![Dashboard Screenshot](Advertising%20Impact%20On%20Sales.png) → Power BI dashboard preview.  
 
 ## 📊 Dashboard Preview  
-<img width="2559" height="1550" alt="Screenshot 2025-09-12 234611" src="https://github.com/user-attachments/assets/bb46b29c-88e5-4eff-b031-3b835ca87778" />
+![Dashboard Screenshot](Advertising%20Impact%20On%20Sales.png)  
 
 ### Key Insights  
 - **Radio ads** drive the **biggest increase** in sales.  
@@ -32,11 +32,11 @@ This project analyzes how different advertising channels (**TV, Radio, Newspaper
 - **OpenAI API** → Used for generating insights & explanations (API key handled securely with `os.environ` + `getpass`)  
 
 ## ▶️ How to Run  
-1. Open the notebook in Colab → [Click here to view in Colab](https://colab.research.google.com/drive/1V9Sci5-h1mJFI3wV6P300UvT9nGUU96S?usp=sharing)  
+1. Open the notebook here → [Google Colab Notebook](https://colab.research.google.com/drive/1V9Sci5-h1mJFI3wV6P300UvT9nGUU96S?usp=sharing)  
 2. Run all cells to reproduce results.  
-3. Open the Power BI file (`.pbix`) or view the screenshot for visualization.  
+3. Open the Power BI file (`.pbix`) or view the screenshot above for visualization.  
 
 ---
 
-### 🔹 Project Summary  
+### 🔹 Project Summary (for GitHub/LinkedIn)  
 **“Built a regression model to analyze the impact of TV, Radio, and Newspaper ads on sales (R² = 0.90, RMSE = 1.78) and designed a Power BI dashboard to visualize insights. Used OpenAI API for code documentation & insights generation.”**
